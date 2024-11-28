@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272072906598",
+    "project_id": "otpverify-7c78f",
+    "storage_bucket": "otpverify-7c78f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272072906598:android:d3fda7eb6a811fe3e65aa7",
+        "android_client_info": {
+          "package_name": "com.example.batechtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHZBVze4OsbVbMkEdKEwR6nCfupdj6Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
